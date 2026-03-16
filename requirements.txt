@@ -1,0 +1,9 @@
+# 🚀 股神帶你飛 v3.0 - 套件清單
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+requests>=2.31.0
+python-dateutil>=2.8.2
+# FinMind 套件（可選，如使用FinMind API則需要）
+finmind>=1.0.0
